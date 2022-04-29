@@ -1,3 +1,10 @@
+
+MUST READ
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/auth-saml
+
+
 hostname.internal.cloudapp.net
 
 https://365lab.net/2015/04/11/switch-usage-model-in-azure-multi-factor-authentication-server/
